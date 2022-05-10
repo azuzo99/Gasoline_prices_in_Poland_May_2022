@@ -1,5 +1,5 @@
 # Gasoline_prices_in_Poland_May_2022
-#This repo contains prices of gasoline in Poland from years 2005 - 2022.
+#This repo contains analysis of gasoline prices in Poland from years 2005 - 2022.
 
 ## 1) Web Scrapping based on data from LOTOS group
 Using LOTOS data I extracted fuel prices: Pb95, Pb98 and ON
